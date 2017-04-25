@@ -1,0 +1,16 @@
+#initially-hidden {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.walruses {
+  width: 100%;
+}
